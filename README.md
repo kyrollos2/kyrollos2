@@ -58,7 +58,7 @@ I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo)
 <!--
 **kyrollos2/kyrollos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
