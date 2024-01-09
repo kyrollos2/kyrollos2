@@ -55,6 +55,11 @@ I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" title="selenium" **alt="selenium" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo)]
 <!--
 **kyrollos2/kyrollos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
