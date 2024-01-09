@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="175"/>
 <div id="badges" >
 
-  <a href="www.linkedin.com/in/kyrollos-g-8b5325246">
+  <a href="https://www.linkedin.com/in/kyrollos-g-8b5325246/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/toyotakyrolla">
@@ -32,7 +32,9 @@ I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcM
 - 🏫 I am in my Sophomore year.
 - :robot: I am an AI research intern for a company that is developing AI models for use in medical imaging.
 - :snake: I have the most experience in Python scripting, but I aspire to be a full-stack developer. 
-- :zap: In my free time, I love studying new technologies I would not normally see in school. I also enjoy lifting and playing with my dog.
+- :zap: In my free time, I love studying new technologies I would not normally see in school.
+- 🥳: I also enjoy lifting 🏋️ and playing with my dog 🐕.
+- 
 
 - :mailbox: Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyro-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kyrollos-g-8b5325246)
 
@@ -59,17 +61,6 @@ I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo)
-<!--
-**kyrollos2/kyrollos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrollos2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
