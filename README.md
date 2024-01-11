@@ -29,7 +29,7 @@
 ### :man_technologist: About Me:
 I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the New York Metro Area.
 
-- :mailbox: Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyrollos-g-8b5325246/)
+- :mailbox: Best way to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kyrollos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyrollos-g-8b5325246/)
 - 🏫 I am in my Sophomore year.
 - :robot: I am an AI research intern for a company that is developing AI models for use in medical imaging.
 - :snake: I have the most experience in Python scripting, but I aspire to be a full-stack developer. 
