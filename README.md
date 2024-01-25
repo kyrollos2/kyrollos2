@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <!-- YouTube Badge -->
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >
+    <a href="http://tinyurl.com/m43enfm7" >
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Logo" />
     </a>
 </div>
