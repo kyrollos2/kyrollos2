@@ -64,7 +64,7 @@ I am a Computer Science student  <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-![GitHub Streak]((https://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyrollos2&theme=tokyonight-duo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrollos2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
